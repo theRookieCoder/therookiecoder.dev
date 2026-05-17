@@ -88,7 +88,7 @@ It's times like this where I really appreciate being in a team, it would've been
 
 # It's Falling Apart
 
-It was the 29th of June, this was the last weekend before voting day. We had to use this time for final touches and polishing. I open up my IDE and hit run, the application opens, 
+It was the 29th of June, this was the last weekend before voting day. We had to use this time for final touches and polishing. I open up my IDE and hit run, the application opens, I cast a test vote... uh oh. The vote button loads and loads, and loads forever. I check the log, I see an 
 
 # Who's Excited for an Election!
 

@@ -11,6 +11,8 @@ startLevel = 1
 
 [markup.highlight]
 style = "catppuccin-macchiato"
+lineNos = true
+lineNumbersInTable = false
 
 [markup.goldmark.renderer]
 unsafe = true
